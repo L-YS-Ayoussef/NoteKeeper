@@ -14,7 +14,7 @@ A simple **Single Page Application (SPA)** built with **React.js** for keeping n
 
 ## 📸 Page Application  
 
-![Page Application](https://github.com/L-YS-Ayoussef/NoteKeeper/blob/master/screenshots/Screenshot1.png)  
+![Page Application](https://github.com/L-YS-Ayoussef/NoteKeeper/blob/master/Screenshot1.png)  
 
 ---
 
